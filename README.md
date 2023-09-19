@@ -9,7 +9,7 @@
 **Junior Experience Developer @ Rapid Platform (_Aug 2021- May 2022_)**
 - Enhanced user experience by adapting application components to brand guidelines, resulting in 20% improvement.
 - Redeveloped analytical tools, which made project organization simpler, in the system using the feedback from Outlook Add-ins, Meeting Experience, and CMS.
-[Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
+- [Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
 
 **ASAP Technology (_December 2020 - Present_)**
 
