@@ -2,27 +2,26 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education		        		
+- B.S., Honours In Computer Science | University of Wolverhampton (_July 2023_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Junior Experience Developer @ Rapid Platform (_Aug 2021- May 2022_)**
+- Enhanced user experience by adapting application components to brand guidelines, resulting in 20% improvement.
+- Redeveloped analytical tools, which made project organization simpler, in the system using the feedback from Outlook Add-ins, Meeting Experience, and CMS.
+[Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**ASAP Technology (_December 2020 - Present_)**
+
+**Wrapsy (_December 2020 - Present_)**
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Predictive Analytics for Succesful Funding in Kickstarter: Leveraging Big Data to Determine the Likelihood of Meeting Pledged Amounts
+[Report](https://www.researchgate.net/publication/374004731_Predictive_Analytics_for_Succesful_Funding_in_Kickstarter_Leveraging_Big_Data_to_Determine_the_Likelihood_of_Meeting_Pledged_Amounts?channel=doi&linkId=650935c661f18040c20b76c4&showFulltext=true)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+An analysis of Kickstarter data and the application of machine learning algorithms to predict the likelihood of meeting pledged amounts. The problem addressed is the challenge faced by project creators in achieving their funding goals on the platform. The aim of the report is to provide insights and a model that can assist project creators in increasing their chances of achieving their funding goals. The contributions of this work lie in the implementation of various machine learning algorithms, including Logistic Regression, XGBoost, and Random Forest Classifier, to predict the success of Kickstarter projects.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Block Diagram](/assets/img/block_Diagram.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
