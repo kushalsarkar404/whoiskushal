@@ -9,7 +9,8 @@
 **Junior Experience Developer @ Rapid Platform (_Aug 2021- May 2022_)**
 - Enhanced user experience by adapting application components to brand guidelines, resulting in 20% improvement.
 - Redeveloped analytical tools, which made project organization simpler, in the system using the feedback from Outlook Add-ins, Meeting Experience, and CMS.
-- [Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
+
+[Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
 
 **ASAP Technology (_December 2020 - Present_)**
 
@@ -21,7 +22,7 @@
 
 An analysis of Kickstarter data and the application of machine learning algorithms to predict the likelihood of meeting pledged amounts. The problem addressed is the challenge faced by project creators in achieving their funding goals on the platform. The aim of the report is to provide insights and a model that can assist project creators in increasing their chances of achieving their funding goals. The contributions of this work lie in the implementation of various machine learning algorithms, including Logistic Regression, XGBoost, and Random Forest Classifier, to predict the success of Kickstarter projects.
 
-![Block Diagram](assets/img/block Diagram.png)
+![Block Diagram](/assets/img/block Diagram.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
