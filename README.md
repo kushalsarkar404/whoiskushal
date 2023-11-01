@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, JavaScript, SQL, AWS, Snowflake, MATLAB
 
-## Education		        		https://docs.google.com/spreadsheets/d/1EnqWTrwXO89oQC5Eam0nBwXoqnh-rVUXxSoa_-4GcnM/edit#gid=0
+## Education	
 - B.S., Honours In Computer Science | University of Wolverhampton (_July 2023_)
 
 ## Work Experience
