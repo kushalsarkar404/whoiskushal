@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, JavaScript, SQL, AWS, Snowflake, MATLAB
 
-## Education		        		
+## Education		        		https://docs.google.com/spreadsheets/d/1EnqWTrwXO89oQC5Eam0nBwXoqnh-rVUXxSoa_-4GcnM/edit#gid=0
 - B.S., Honours In Computer Science | University of Wolverhampton (_July 2023_)
 
 ## Work Experience
@@ -24,10 +24,17 @@ An analysis of Kickstarter data and the application of machine learning algorith
 
 ![Block Diagram](/assets/img/figure_block.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Final Year Project: Web-based Online Examination System, QuickXam
+[Report](https://drive.google.com/file/d/1Ko5TIWW4R3cVKuycE2QoZNLXHnhku8-o/view?usp=sharing)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**QuickXam** is a final-year project that focuses on the development of an online examination system
+using **JavaScript** and **NodeJS**. The system is designed to provide an easy and secure way for
+teachers to create and manage examinations, and for students to take exams virtually. With
+QuickXam, teachers can create exams, add questions, set time limits and assign grades. Students
+can log in, access the exams they have been assigned, answer questions and submit their answers.
+The system provides real-time feedback on completed exams and grades, and the results can be
+downloaded for further analysis. QuickXam is designed to be user-friendly, efficient and reliable,
+and can be customized to meet the specific needs of educational institutions.
 
 ![Poster Presentation](/assets/img/poster.png)
 
