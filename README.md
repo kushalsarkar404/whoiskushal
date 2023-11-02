@@ -38,6 +38,14 @@ and can be customized to meet the specific needs of educational institutions.
 
 ![Poster Presentation](/assets/img/poster.png)
 
+### FastAPI Nepali News Classification Web Application
+[Report](https://drive.google.com/file/d/1Ko5TIWW4R3cVKuycE2QoZNLXHnhku8-o/view?usp=sharing)
+
+This project contains **PyTorch** implementation of **LSTM** for performing Nepali News Classification. Additionally, a simple content-based Nepali news recommendation is also done and the trained models are deployed using **FastAPI**.
+
+![Preview 1](/assets/img/2.png)
+![Preview 2](/assets/img/recommendation.png)
+
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
