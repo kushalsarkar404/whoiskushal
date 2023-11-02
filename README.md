@@ -39,7 +39,7 @@ and can be customized to meet the specific needs of educational institutions.
 ![Poster Presentation](/assets/img/poster.png)
 
 ### FastAPI Nepali News Classification Web Application
-[Report](https://drive.google.com/file/d/1Ko5TIWW4R3cVKuycE2QoZNLXHnhku8-o/view?usp=sharing)
+[GitHub](https://github.com/kushalsarkar404/FastAPI-Nepali-News-Classification-Web-Application)
 
 This project contains **PyTorch** implementation of **LSTM** for performing Nepali News Classification. Additionally, a simple content-based Nepali news recommendation is also done and the trained models are deployed using **FastAPI**.
 
