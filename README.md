@@ -1,7 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, JavaScript, SQL, AWS, Snowflake, MATLAB
-
+#### Technical Skills: Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualization, JavaScript, ReactJS, Node.JS
 ## Education	
 - B.S., Honours In Computer Science | University of Wolverhampton (_July 2023_)
 
