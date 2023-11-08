@@ -1,7 +1,7 @@
 # Data Scientist
 
 #### Technical Skills
-Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualization, JavaScript, ReactJS, Node.JS
+Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualization, JavaScript, ReactJS, Node.JS, LaTeX
 ## Education	
 - B.S., Honours In Computer Science | University of Wolverhampton (_July 2023_)
 
