@@ -37,6 +37,7 @@ downloaded for further analysis. QuickXam is designed to be user-friendly, effic
 and can be customized to meet the specific needs of educational institutions.
 
 ![Poster Presentation](/assets/img/poster.png)
+![Poster Presentation](/assets/img/tadow.mp4)
 
 ### FastAPI Nepali News Classification Web Application
 [GitHub](https://github.com/kushalsarkar404/FastAPI-Nepali-News-Classification-Web-Application)
