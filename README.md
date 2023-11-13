@@ -7,6 +7,8 @@ Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualizat
 
 ![GRAD PIC](/assets/img/graduation1.jpg)
 
+* When they hand you a degree, but your heart screams 'Rock on!' 🤟📜 *
+
 ## Work Experience
 **Junior Experience Developer @ Rapid Platform (_Aug 2021- May 2022_)**
 - Enhanced user experience by adapting application components to brand guidelines, resulting in 20% improvement.
