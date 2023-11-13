@@ -49,9 +49,11 @@ This project contains **PyTorch** implementation of **LSTM** for performing Nepa
 
 ## Scholarship and Awards
 ### AAA Scholarship
-I was one of 50 recipients among 500+ applicants for the scholarship, which waived the tuition fee. 
+I was ***one of the 50 recipients*** among 500+ applicants for the scholarship, which waived the tuition fee. 
+
 ![Preview 2](/assets/img/scholarship.jpeg)
 
+Certificate in hand, but I'm pretty sure my sister just photobombed her way into another one of my achievements. 📸🤷‍♂️
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
 2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
