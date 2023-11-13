@@ -68,3 +68,7 @@ I was **one of the 50 recipients** among 500+ applicants for the scholarship, wh
 ![Preview 2](/assets/img/thar.jpeg)
 
 *When the mountains call, I answer with every step.*
+
+![Preview 2](/assets/img/coffee.jpeg)
+
+*Because even coffee tastes better in the mountains.*
