@@ -1,7 +1,7 @@
 # Aspiring Data Scientist
 
 #### Technical Skills
-Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualization, JavaScript, ReactJS, Node.JS, LaTeX
+Python, Pandas, NumPy, SQL, Machine Learning, Sci-kit learn, Big Data Analysis, Hadoop, Spark, Data Visualization, Matplotlib and Seaborn, Feature Engineering, JavaScript, ReactJS, Node.JS, AWS, Git, LaTeX
 ## Education	
 - B.S., Honours In Computer Science | University of Wolverhampton (_July 2023_)
 
