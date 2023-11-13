@@ -60,11 +60,11 @@ I was **one of the 50 recipients** among 500+ applicants for the scholarship, wh
 *Certificate in hand, but I'm pretty sure my sister just photobombed her way into another one of my achievements. 📸🤷‍♂️*
 ## Beyond Bits and Bytes
 ### Weight Lifting
-![Preview 2](/assets/img/dl.jpeg)
+![Preview 2](/assets/img/dl.jpg)
 
 *My defense mechanism against life's challenges*
 
 ### Adventures
-![Preview 2](/assets/img/thar.jpg)
+![Preview 2](/assets/img/thar.jpeg)
 
 *When the mountains call, I answer with every step.*
