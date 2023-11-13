@@ -19,9 +19,9 @@ Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualizat
 **Wrapsy (_December 2020 - Present_)**
 
 **ASAP Technology (_December 2020 - Present_)**
+Co-founder of ASAP, with a target to be a revolutionary hyperlocal e-commerce startup committed to providing swift and localized deliveries. Our mission is to redefine the market by offering unparalleled convenience, making ASAP the go-to destination for immediate and seamless online shopping experiences. Thrilled to lead a dynamic team in reshaping the future of e-commerce, one swift delivery at a time.
 
 ![GRAD PIC](/assets/img/asap.png)
-Co-founder of ASAP, with a target to be a revolutionary hyperlocal e-commerce startup committed to providing swift and localized deliveries. Our mission is to redefine the market by offering unparalleled convenience, making ASAP the go-to destination for immediate and seamless online shopping experiences. Thrilled to lead a dynamic team in reshaping the future of e-commerce, one swift delivery at a time.
 
 *A snippet from one of the MVPs of ASAP*
 
