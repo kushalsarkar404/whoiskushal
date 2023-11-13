@@ -72,6 +72,11 @@ I was **one of the 50 recipients** among 500+ applicants for the scholarship, wh
 
 ![Preview 2](/assets/img/scholarship.jpeg)
 
+### NSBEHacks UofT 2021
+**Winner** of  'UofT Engineering Challenge: Equity, Diversion, and Inclusion in Academics' by developing the product below
+
+![Preview 2](/assets/img/hackathon.png)
+
 *Certificate in hand, but I'm pretty sure my sister just photobombed her way into another one of my achievements. 📸🤷‍♂️*
 ## Beyond Bits and Bytes
 ### Weight Lifting
