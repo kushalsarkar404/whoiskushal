@@ -63,3 +63,8 @@ I was **one of the 50 recipients** among 500+ applicants for the scholarship, wh
 ![Preview 2](/assets/img/dl.jpg)
 
 *My defense mechanism against life's challenges*
+
+### Adventures
+![Preview 2](/assets/img/thar.jpg)
+
+*When the mountains call, I answer with every step.*
