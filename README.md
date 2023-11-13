@@ -17,7 +17,7 @@ Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualizat
 [Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
 
 **ASAP Technology (_December 2020 - Present_)**
-<iframe width="560" height="315" src="https://youtube.com/shorts/tck7zyj3rzo?feature=share" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/shorts/94nDnBpYyEg?feature=share" frameborder="0" allowfullscreen></iframe>
 
 
 **Wrapsy (_December 2020 - Present_)**
@@ -43,7 +43,6 @@ downloaded for further analysis. QuickXam is designed to be user-friendly, effic
 and can be customized to meet the specific needs of educational institutions.
 
 ![Poster Presentation](/assets/img/poster.png)
-![Poster Presentation](/assets/img/tadow.mp4)
 
 ### FastAPI Nepali News Classification Web Application
 [GitHub](https://github.com/kushalsarkar404/FastAPI-Nepali-News-Classification-Web-Application)
