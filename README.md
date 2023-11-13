@@ -72,3 +72,12 @@ I was **one of the 50 recipients** among 500+ applicants for the scholarship, wh
 ![Preview 2](/assets/img/coffee.jpeg)
 
 *Because even coffee tastes better in the mountains.*
+
+## Guitar
+![Preview 2](/assets/img/jm.jpeg)
+
+*Bending the notes of Gravity, attempting to channel my inner John Mayer. *
+
+![Preview 2](/assets/img/jm2.jpeg)
+
+*When I used to play for the school band (this is during grade 9)*
