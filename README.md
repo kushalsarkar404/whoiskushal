@@ -16,11 +16,15 @@ Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualizat
 
 [Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
 
-**ASAP Technology (_December 2020 - Present_)**
-<iframe width="560" height="315" src="https://youtube.com/shorts/94nDnBpYyEg?feature=share" frameborder="0" allowfullscreen></iframe>
-
-
 **Wrapsy (_December 2020 - Present_)**
+
+**ASAP Technology (_December 2020 - Present_)**
+
+![GRAD PIC](/assets/img/asap.png)
+Co-founder of ASAP, with a target to be a revolutionary hyperlocal e-commerce startup committed to providing swift and localized deliveries. Our mission is to redefine the market by offering unparalleled convenience, making ASAP the go-to destination for immediate and seamless online shopping experiences. Thrilled to lead a dynamic team in reshaping the future of e-commerce, one swift delivery at a time.
+
+*A snippet from one of the MVPs of ASAP*
+
 
 ## Projects
 ### Predictive Analytics for Succesful Funding in Kickstarter: Leveraging Big Data to Determine the Likelihood of Meeting Pledged Amounts
