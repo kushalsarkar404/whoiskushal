@@ -17,7 +17,8 @@ Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualizat
 [Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
 
 **ASAP Technology (_December 2020 - Present_)**
-<iframe width="560" height="315" src="https://youtube.com/shorts/tck7zyj3rzo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/shorts/tck7zyj3rzo?feature=share" frameborder="0" allowfullscreen></iframe>
+
 
 **Wrapsy (_December 2020 - Present_)**
 
