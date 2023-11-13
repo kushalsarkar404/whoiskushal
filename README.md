@@ -4,7 +4,7 @@
 Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualization, JavaScript, ReactJS, Node.JS, LaTeX
 ## Education	
 - B.S., Honours In Computer Science | University of Wolverhampton (_July 2023_)
-![GRAD](/assets/img/graduation.mp4)
+![GRAD](/assets/img/graduation1.jpg)
 
 ## Work Experience
 **Junior Experience Developer @ Rapid Platform (_Aug 2021- May 2022_)**
