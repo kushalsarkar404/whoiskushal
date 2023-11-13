@@ -1,4 +1,4 @@
-#Aspiring Data Scientist
+# Aspiring Data Scientist
 
 #### Technical Skills
 Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualization, JavaScript, ReactJS, Node.JS, LaTeX
