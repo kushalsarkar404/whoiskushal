@@ -48,7 +48,7 @@ This project contains **PyTorch** implementation of **LSTM** for performing Nepa
 ![Preview 2](/assets/img/recommendation.png)
 
 ## Scholarship and Awards
-###AAA Scholarship
+### AAA Scholarship
 I was one of 50 recipients among 500+ applicants for the scholarship, which waived the tuition fee. 
 ![Preview 2](/assets/img/scholarship.jpeg)
 
