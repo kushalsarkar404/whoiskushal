@@ -1,4 +1,4 @@
-# Data Scientist
+#Aspiring Data Scientist
 
 #### Technical Skills
 Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualization, JavaScript, ReactJS, Node.JS, LaTeX
@@ -16,9 +16,13 @@ Python, SQL, Machine Learning, Big Data Analysis, Hadoop, Spark, Data Visualizat
 
 [Rapid Platform, Australia](https://rapidplatform.com.au/end-user/)
 
-**Wrapsy (_December 2020 - Present_)**
+**Junior Data Analyst @ Wrapsy (_May 2023 - Present_)**
+- Implemented predictive machine learning models to increase customer retention by 20%.
+- Employed time series forecasting models, such as ARIMA and Exponential Smoothing, for inventory optimization, resulting in a 15% reduction in operational costs.
 
-**ASAP Technology (_December 2020 - Present_)**
+[Wrapsy Tech, Nepal](https://wrapsynepal.com/) 
+
+**ASAP Technology (_July 2023 - Present_)**
 
 Co-founder of ASAP, with a target to be a revolutionary hyperlocal e-commerce startup committed to providing swift and localized deliveries. Our mission is to redefine the market by offering unparalleled convenience, making ASAP the go-to destination for immediate and seamless online shopping experiences. Thrilled to lead a dynamic team in reshaping the future of e-commerce, one swift delivery at a time.
 
@@ -56,6 +60,11 @@ This project contains **PyTorch** implementation of **LSTM** for performing Nepa
 
 ![Preview 1](/assets/img/2.png)
 ![Preview 2](/assets/img/recommendation.png)
+
+## Publication (WIP)
+- Neupane, S., Khatry, K., **Sarkar, K.**, (2023) Addressing Class Imbalance in COVID-19 Detection: GAN-Based Augmentation for Improved Model Performance. 
+
+![Preview 2](/assets/img/gan.png)
 
 ## Scholarship and Awards
 ### AAA Scholarship
