@@ -76,7 +76,7 @@ I was **one of the 50 recipients** among 500+ applicants for the scholarship, wh
 ## Guitar
 ![Preview 2](/assets/img/jm.jpeg)
 
-*Bending the notes of Gravity, attempting to channel my inner John Mayer. *
+*Bending the notes of Gravity, attempting to channel my inner John Mayer.*
 
 ![Preview 2](/assets/img/jm2.jpeg)
 
